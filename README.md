@@ -14,7 +14,7 @@
   
   🌱 I'm currently learning **Advanced Frameworks and Cloud Technologies**
 
-  💬 Ask me about **Node.js, React, Docker, CI/CD**
+  💬 Ask me about **PHP, Node.js, React, Docker**
 
   ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
   
