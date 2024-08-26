@@ -47,7 +47,7 @@
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <br>
 <div align="center">
-  <img src="https://github.com/shibbu04/shibbu04/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibbu04&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
 
 <br/><br/>
