@@ -1,82 +1,73 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shibbu04/shibbu04/main/assets/header.gif" alt="Header" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I'm+Shivam+Singh;A+passionate+full+stack+developer+from+India&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG">
 </div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Singh!;" />
-</h1>
-
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
 <div align="center">
-  
-  🔭 I'm currently working on **innovative web applications**
-  
-  🌱 I'm currently learning **Advanced Frameworks and Cloud Technologies**
-
-  💬 Ask me about **Node.js, React, Docker, CI/CD**
-
-  ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
-  
+  <img src="https://komarev.com/ghpvc/?username=shibbu04&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views">
+  <img src="https://github-profile-trophy.vercel.app/?username=shibbu04&theme=radical&column=7&no-bg=true&no-frame=true" alt="Trophies">
 </div>
 
-<div align="center"> 
-  <a href="mailto:shivamsingh57680@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<div align="center">
+  <a href="https://twitter.com/shibbu410"><img src="https://img.shields.io/twitter/follow/shibbu410?logo=twitter&style=for-the-badge" alt="Twitter Follow"></a>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🌱 I'm currently learning **Frameworks**
+- 👨‍💻 Check out my projects at [shivam04.tech](https://shivam04.tech)
+- 📫 Reach me at **shivamsingh57680@gmail.com**
+- 📄 Learn about my experiences [here](https://tinyurl.com/ystu94xh)
+
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,docker,express,figma,git,html,java,js,linux,matlab,mysql,nodejs,php,postgres,postman,react,redis,tailwind&perline=8" alt="Languages and Tools">
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://dev.to/shibbu04"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
+  <a href="https://twitter.com/shibbu410"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/shivamsingh57680"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/_shi_vam_007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.leetcode.com/shibbu007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shibbu04&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibbu04&theme=radical&hide_border=true&background=0d1117&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibbu04&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages">
+</div>
+
+---
+
+### 🎵 Now Playing
+
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img src="https://novatorem-shibbu04.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
   </a>
-  <a href="https://linkedin.com/in/shivamsingh57680" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/shibbu04">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
   </a>
-  <a href="https://shivam04.tech" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibbu04&theme=react-dark&hide_border=true&area=true" width="100%">
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=shibbu04&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=shibbu04&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibbu04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
 
 <div align="center">
-<a href='https://ko-fi.com/shibbu04' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" alt="Coding Animation" width="250">
 </div>
-
-<br/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-
-<br/>
