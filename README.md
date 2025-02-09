@@ -9,16 +9,20 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&size=40&pause=1000&center=true&vCenter=true&random=false&width=600&height=80&lines=Welcome+to+my+Universe!+🌌;Crafting+Digital+Experiences+✨;Turning+Ideas+into+Reality+💡;Let's+Build+Something+Amazing!+🚀" alt="Typing SVG" />
   </a>
 </div>
+
+<!-- Coding GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF">
+</div>
+
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 <div align="center">
-
   🔭 I'm currently working on innovative web applications
-
   🌱 I'm currently learning Advanced Frameworks and Cloud Technologies
   💬 Ask me about PHP, Node.js, React, Docker
   ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-
 </div>
+
 <!-- Connect Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" height="28">
@@ -36,13 +40,9 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white&color=54B435&logoWidth=30" alt="Portfolio" />
   </a>
 </div>
+
 <hr/>
-<!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/> -->
-<!-- <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs" /><br>
-</div> -->
+
 <!-- Tech Stack Showcase -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" height="28">
@@ -76,63 +76,75 @@
   <br/>
   <img src="https://readme-components.vercel.app/api?component=experience&company=DEVOPS&role=Docker%20|%20AWS%20|%20Git&location=India&fill=linear-gradient(90deg,%20%23ff0099%200%25,%20%23493240%20100%25)" />
 </div>
+
 <br/>
 <hr/>
+
+<!-- Contributions Section -->
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shibbu04/shibbu04/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shibbu04/shibbu04/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shibbu04/shibbu04/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shibbu04/shibbu04/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-<br/><br/>
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=shibbu04&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=shibbu04&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibbu04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br/><br/>
-<hr/>
+
 <br/>
-<h2 align="center">🎉 Fun Zone 🎊</h2>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
+
+<!-- Enhanced Stats Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" height="28">
+  GitHub Analytics
+</h2>
+
+<!-- Animated Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shibbu04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b3ff&icon_color=00b4ff" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibbu04&theme=tokyonight&hide_border=true&background=0D1117&ring=00b0f4&fire=00b0f4&currStreakLabel=00b0f4" width="400"/>
+</p>
+
+<!-- Language Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibbu04&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" width="400"/>
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibbu04&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
 <hr/>
+
+<!-- Support Section -->
 <h2 align="center">☕ Support My Work</h2>
 <div align="center">
   <a href='https://ko-fi.com/shibbu04' target='_blank'>
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
+
 <hr/>
+
+<!-- Farewell Message -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:);May+the+code+be+with+you!" />
 </h3>
+
+<!-- Visitor Counter -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/shibbu04/count.svg" alt="Visitor Count" />
 </div>
-<!-- Profile Views -->
-<!-- <div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Profile%20Views-♾️-blue?style=for-the-badge&color=0088ff&logoWidth=30" alt="Profile Views" />
-</div> -->
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
-<!-- Fun Element -->
+<!-- Retro Style Elements -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-  <!-- "Fancy" -->
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
-
-<!-- Hidden Keywords for SEO -->
-<!--
-Keywords: Full Stack Developer, Web Development, JavaScript, React, Node.js, PHP, MongoDB, Docker, DevOps, India, Software Engineer, Web Applications, Cloud Computing, API Development, UI/UX
