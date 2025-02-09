@@ -1,9 +1,14 @@
+<!-- Header Banner with Particle Effect -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shibbu04/shibbu04/main/assets/header.gif" alt="Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Singh&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=55" width="100%" />
 </div>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Singh!;" />
-</h1>
+
+<!-- Dynamic Introduction -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&size=40&pause=1000&center=true&vCenter=true&random=false&width=600&height=80&lines=Welcome+to+my+Universe!+🌌;Crafting+Digital+Experiences+✨;Turning+Ideas+into+Reality+💡;Let's+Build+Something+Amazing!+🚀" alt="Typing SVG" />
+  </a>
+</div>
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 <div align="center">
 
