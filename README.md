@@ -19,15 +19,21 @@
   ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 </div>
-<div align="center"> 
-  <a href="mailto:shivamsingh57680@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" height="28">
+  Let's Connect
+</h2>
+
+<div align="center">
   <a href="https://linkedin.com/in/shivamsingh57680" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&logoWidth=30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shivamsingh57680@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&logoWidth=30" alt="Gmail" />
   </a>
   <a href="https://shivam04.tech" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white&color=54B435&logoWidth=30" alt="Portfolio" />
   </a>
 </div>
 <hr/>
