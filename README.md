@@ -39,9 +39,42 @@
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs" /><br>
+</div> -->
+<!-- Tech Stack Showcase -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" height="28">
+  Tech Stack & Skills
+</h2>
+
+<!-- Animated Skill Clouds -->
+<div align="center">
+  <!-- Frontend -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+  </a>
+  <br/>
+  <img src="https://readme-components.vercel.app/api?component=experience&company=FRONTEND&role=React%20|%20Next.js%20|%20TypeScript&location=India&fill=linear-gradient(90deg,%20%2300dbde%200%25,%20%23fc00ff%20100%25)" />
+</div>
+
+<!-- Backend -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb" />
+  </a>
+  <br/>
+  <img src="https://readme-components.vercel.app/api?component=experience&company=BACKEND&role=Node.js%20|%20PHP%20|%20MongoDB&location=India&fill=linear-gradient(90deg,%20%232193b0%200%25,%20%236dd5ed%20100%25)" />
+</div>
+
+<!-- Tools & Others -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git" />
+  </a>
+  <br/>
+  <img src="https://readme-components.vercel.app/api?component=experience&company=DEVOPS&role=Docker%20|%20AWS%20|%20Git&location=India&fill=linear-gradient(90deg,%20%23ff0099%200%25,%20%23493240%20100%25)" />
 </div>
 <br/>
 <hr/>
