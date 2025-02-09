@@ -75,3 +75,25 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/shibbu04/count.svg" alt="Visitor Count" />
 </div>
+<!-- Profile Views -->
+<!-- <div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Profile%20Views-♾️-blue?style=for-the-badge&color=0088ff&logoWidth=30" alt="Profile Views" />
+</div> -->
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+<!-- Fun Element -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+  <!-- "Fancy" -->
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+</div>
+
+<!-- Hidden Keywords for SEO -->
+<!--
+Keywords: Full Stack Developer, Web Development, JavaScript, React, Node.js, PHP, MongoDB, Docker, DevOps, India, Software Engineer, Web Applications, Cloud Computing, API Development, UI/UX
